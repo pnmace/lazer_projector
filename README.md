@@ -44,11 +44,11 @@ determining where to start drawing a shape and which direction to start in could
 https://en.wikipedia.org/wiki/Eulerian_path ?
 
 turn individual png frames into a full video with audio!
-
+```
 ffmpeg -framerate 30 -pattern_type glob -i '*.png' -i bad_apple.opus -r 30 output.mp4
 lossless:
 ffmpeg -framerate 30 -pattern_type glob -i '*.png' -i bad_apple.opus -r 30 -c:v ayuv output.avi
-
+```
 
 
 
