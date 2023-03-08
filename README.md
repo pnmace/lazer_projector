@@ -1,5 +1,6 @@
 # lazer_projector
 putting this back together in a video was just for fun, but this is pretty neat: https://headpat.xyz/uwu/c0d2b9.mp4
+Firefox doesn't like this video for some reason, but mpv and chrome do.. odd..
 
 atm this only has software for converting black/white input frames into an outline of the components of that frame.
 Currently this is very unoptimized in order to have *something* since the focus of this project was to learn hardware things and this was quick an easy to make
